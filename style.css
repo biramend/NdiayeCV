@@ -280,7 +280,7 @@ section .title::after{
 .competence .title::after,
 .teams .title::after{
     background: #111;
-    content: "Logicieles";
+    content: "Informatique";
 }
 .competence .serv-content .card{
     width: calc(33% - 20px);
